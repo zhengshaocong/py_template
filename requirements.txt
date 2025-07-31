@@ -9,5 +9,9 @@ numpy>=1.21.0
 Pillow>=8.3.0
 matplotlib>=3.4.0
 
+# 测试相关
+pytest>=6.0.0
+pytest-cov>=2.10.0
+
 # 其他工具
 tqdm>=4.62.0 
